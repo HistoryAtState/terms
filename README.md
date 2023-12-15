@@ -6,7 +6,7 @@ A database of terms drawn from the lists of terms and abbreviations in many volu
 
 ## Data sources
 
-- [The *Foreign Relations of the United States (FRUS)_ series](https://history.state.gov/historicaldocuments) (see raw data at the [HistoryAtState/frus](https://github.com/HistoryAtState/frus) GitHub repository)
+- [The *Foreign Relations of the United States (FRUS)* series](https://history.state.gov/historicaldocuments) (see raw data at the [HistoryAtState/frus](https://github.com/HistoryAtState/frus) GitHub repository)
 
 ## Status
 

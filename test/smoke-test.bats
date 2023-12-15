@@ -25,8 +25,8 @@
 
 # Make sure the package has been deployed
 @test "logs show package deployment" {
-  result=$(docker logs exist | grep -o 'http://history.state.gov/ns/data/terms')
-  [ "$result" == 'http://history.state.gov/ns/data/terms' ]
+  result=$(docker logs exist | grep -o 'http://history.state.gov/ns/apps/terms')
+  [ "$result" == 'http://history.state.gov/ns/apps/terms' ]
 }
 
 @test "logs are error free" {
