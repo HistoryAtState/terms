@@ -14,9 +14,9 @@ The data and app are very preliminary and subject to reorganization.
 
 ## Dependencies
 
-- The data in the `data` collection is XML
+- The data in the `data` collection is XML.
 - The application runs in [eXist](http://exist-db.org). Requires 3.0+.
-- Building the installable package requires Apache Ant
+- Building the installable package requires Apache Ant.
 
 ## Installation
 
